@@ -1,0 +1,2 @@
+---I've put the files in a package structure
+---to do 'pip install flask-bcrypt'
